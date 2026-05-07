@@ -1,34 +1,41 @@
-![Header](./github-header-banner.png)
+# 💫 Sobre mi:
 
-# 💫 About Me:
-Hola, soy Niurys, QA Tester con experiencia en testing funcional de aplicaciones web y en proceso de crecimiento hacia la automatización de pruebas.
+Hola, soy Niurys, QA Tester con experiencia en testing manual y automatización, enfocada en asegurar la calidad funcional, técnica y de experiencia de aplicaciones web.
 
 ## 🧪 Qué hago
+
 - Diseño y ejecuto casos de prueba claros y trazables
 - Realizo testing funcional, smoke, regresión y exploratorio
-- Valido APIs REST utilizando Postman
-- Reporto defectos de forma precisa, facilitando su rápida resolución
-- Colaboro con el equipo de desarrollo en ambientes ágiles
+- Automatizo flujos críticos con Cypress (casos positivos y negativos)
+- Valido APIs REST con Postman, verificando respuestas, autenticación y manejo de errores
+- Reporto defectos en Jira con documentación detallada (pasos, evidencia, severidad y prioridad)
+- Colaboro directamente con equipos de desarrollo en entornos ágiles (Scrum)
 
 ## 🧠 Cómo trabajo
+
 - Mentalidad analítica y atención al detalle
 - Enfoque preventivo: la calidad se construye desde el primer sprint
-- Colaboración activa con equipos de desarrollo bajo metodologías ágiles
+- Comunicación clara y efectiva con desarrollo y producto
+- Aprendizaje continuo y mejora de procesos
 
-## 🌱 Actualmente aprendiendo
-- Automatización de pruebas con Cypress
-- Buenas prácticas en el diseño de pruebas UI/UX
-- Estrategias de testing de APIs
+## 🤖 AI-assisted QA
+
+- Incorporo herramientas de IA (Claude) para optimizar la generación de casos de prueba, ampliar cobertura y mejorar la eficiencia del proceso de QA
+
+## 🌱 Actualmente profundizando en
+
+- Estrategias avanzadas de automatización con Cypress
+- Testing de APIs y validaciones backend
+- Buenas prácticas en pruebas UI/UX
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niurys-hernandez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niuryshdez@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/59892567697)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niurys-hernandez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niuryshdez@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/59892567697)
 
 ### 🧪 QA & Testing
 ![Cypress](https://img.shields.io/badge/-Cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Katalon](https://img.shields.io/badge/Katalon-38BDF8?style=for-the-badge&logo=katalon&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 📋 Gestión & Colaboración
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -40,10 +47,10 @@ Hola, soy Niurys, QA Tester con experiencia en testing funcional de aplicaciones
 ### 🌐 Frontend Basics
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🎨 Diseño & Documentación
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🔧 Control de Versiones
