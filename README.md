@@ -2,6 +2,17 @@
 
 Hola, soy Niurys, QA Tester con experiencia en testing manual y automatización, enfocada en asegurar la calidad funcional, técnica y de experiencia de aplicaciones web.
 
+
+
+## 📂 Proyectos destacados
+
+| Proyecto | Qué muestra |
+|---|---|
+| [**Análisis Funcional — Y2K ERP (legacy)**](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA/tree/main/1-Y2K-QA-ANALISIS-FUNCIONAL) | Login y Restablecer Contraseña de un ERP contable real: historias de usuario, reglas de negocio, criterios de aceptación en Gherkin y puntos de falla |
+| [**Plan de Pruebas RC — Solnaris ERP 2.0**](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA/tree/main/2-SOLNARIS-ERP-QA-TESTING) | 308 casos por módulo, 61 incidencias reportadas y re-testeadas, pruebas por rol e integración tributaria |
+
+➡️ [Ver el portafolio completo](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA)
+
 ## 🧪 Qué hago
 
 - Diseño y ejecuto casos de prueba claros y trazables
