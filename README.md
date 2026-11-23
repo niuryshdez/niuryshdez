@@ -1,23 +1,23 @@
 # 💫 Sobre mi:
 
-Hola, soy Niurys, QA Tester con experiencia en testing manual y automatización, enfocada en asegurar la calidad funcional, técnica y de experiencia de aplicaciones web.
-
+Hola, soy Niurys, QA Tester con experiencia en testing manual y funcional de aplicaciones web y movile, enfocada en asegurar la calidad funcional, técnica y de experiencia de usuario. Trabajé en el testing de un ERP contable durante su migración a una nueva versión.
 
 
 ## 📂 Proyectos destacados
 
 | Proyecto | Qué muestra |
 |---|---|
-| [**Análisis Funcional — Y2K ERP (legacy)**](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA/tree/main/1-Y2K-QA-ANALISIS-FUNCIONAL) | Login y Restablecer Contraseña de un ERP contable real: historias de usuario, reglas de negocio, criterios de aceptación en Gherkin y puntos de falla |
-| [**Plan de Pruebas RC — Solnaris ERP 2.0**](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA/tree/main/2-SOLNARIS-ERP-QA-TESTING) | 308 casos por módulo, 61 incidencias reportadas y re-testeadas, pruebas por rol e integración tributaria |
+| [**Plan de pruebas — ERP contable**](https://github.com/niuryshdez/portafolio-qa/tree/main/04-plan-pruebas-modulo-clientes) | Módulo Clientes post-migración: 58 casos ejecutados, 4 defectos y 1 mejora reportados |
+| [**Análisis funcional — ERP contable**](https://github.com/niuryshdez/portafolio-qa/tree/main/03-analisis-funcional-erp) | Login y Recuperación de contraseña: historias de usuario, reglas de negocio, criterios de aceptación en Gherkin y puntos de fallo |
+| [**Testing exploratorio — Cines Opera**](https://github.com/niuryshdez/portafolio-qa/tree/main/02-testing-exploratorio-cine-opera) | Sesión exploratoria del flujo de compra de entradas: 16 defectos reportados |
 
-➡️ [Ver el portafolio completo](https://github.com/niuryshdez/NIURYS-PORTAFOLIO-QA)
+➡️ [Ver el portafolio completo](https://github.com/niuryshdez/portafolio-qa)
 
 ## 🧪 Qué hago
 
 - Diseño y ejecuto casos de prueba claros y trazables
 - Realizo testing funcional, smoke, regresión y exploratorio
-- Automatizo flujos críticos con Cypress (casos positivos y negativos)
+- Automatizo flujos con Cypress (casos positivos y negativos)
 - Valido APIs REST con Postman, verificando respuestas, autenticación y manejo de errores
 - Reporto defectos en Jira con documentación detallada (pasos, evidencia, severidad y prioridad)
 - Colaboro directamente con equipos de desarrollo en entornos ágiles (Scrum)
