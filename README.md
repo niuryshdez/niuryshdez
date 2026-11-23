@@ -1,6 +1,6 @@
 # 💫 Sobre mi:
 
-Hola, soy Niurys, QA Tester con experiencia en testing manual y funcional de aplicaciones web y movile, enfocada en asegurar la calidad funcional, técnica y de experiencia de usuario. Trabajé en el testing de un ERP contable durante su migración a una nueva versión.
+Hola, soy Niurys, QA Tester con experiencia en testing manual y funcional de aplicaciones web, enfocada en asegurar la calidad funcional, técnica y de experiencia de usuario. Trabajé en el testing de un ERP contable durante su migración a una nueva versión.
 
 
 ## 📂 Proyectos destacados
@@ -10,6 +10,7 @@ Hola, soy Niurys, QA Tester con experiencia en testing manual y funcional de apl
 | [**Plan de pruebas — ERP contable**](https://github.com/niuryshdez/portafolio-qa/tree/main/04-plan-pruebas-modulo-clientes) | Módulo Clientes post-migración: 58 casos ejecutados, 4 defectos y 1 mejora reportados |
 | [**Análisis funcional — ERP contable**](https://github.com/niuryshdez/portafolio-qa/tree/main/03-analisis-funcional-erp) | Login y Recuperación de contraseña: historias de usuario, reglas de negocio, criterios de aceptación en Gherkin y puntos de fallo |
 | [**Testing exploratorio — Cines Opera**](https://github.com/niuryshdez/portafolio-qa/tree/main/02-testing-exploratorio-cine-opera) | Sesión exploratoria del flujo de compra de entradas: 16 defectos reportados |
+| [**Prácticas en apps web**](https://github.com/niuryshdez/portafolio-qa/tree/main/01-practicas-apps-web) | Diseño de casos de prueba (Paprika) y 18 defectos reportados en SauceDemo |
 
 ➡️ [Ver el portafolio completo](https://github.com/niuryshdez/portafolio-qa)
 
